@@ -1,6 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-
-# Hello World!, I'm Roman, a Russian Developer 👋🏼:
+# Hello, I'm Roman, a Russian Developer 👋🏼:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RezmRoM&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="220" alt="stats graph"  />
