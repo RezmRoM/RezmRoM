@@ -3,13 +3,13 @@
 # Hello World!, I'm Tobi, a German Web Developer 👋🏼:
 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
 
-
-# 💻 Tech Stack:
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RezmRoM&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="220" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RezmRoM&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=merko&hide_border=false" height="220" alt="languages graph"  />
 </div>
+
+
+# 💻 Tech Stack:
 
 ###
 
